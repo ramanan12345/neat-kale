@@ -26,3 +26,4 @@ fields:
 pages:
 - src/pages/style-guide.md
 - src/pages/about.md
+- src/pages/helloone.md
